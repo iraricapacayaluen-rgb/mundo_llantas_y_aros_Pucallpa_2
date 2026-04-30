@@ -1,13 +1,3 @@
-## Trello
-mas info en [mi tablero de trello](https://trello.com/b/XggL294J)
- (<img width="1357" height="624" alt="image" src="https://github.com/user-attachments/assets/4be754fd-0537-455b-99b9-7253daaee71e" />)
-
-
-
------
-
-
-
 # Sistema de Gestión "Mundo Llantas & Aros"
 Sistema web integral para el control de asistencia biométrica, gestión de inventarios y facturación electrónica.
 Desarrollado como solución tecnológica para modernizar la operatividad del sector automotriz en Pucallpa
@@ -46,42 +36,6 @@ biométrico ZKTeco y dispositivos PDA para el escaneo de códigos de barras/QR
 | RNF03 |Integridad | Los registros de huellas no deben ser alterables por los trabajadores |
 | RNF04 |Rendimiento | La validación de huella y emisión de boletas debe tardar entre 3 a 5 segundos |
 
-
-## Stack completo
-1.  Gestión        = Trello (Kanban).
-2 . Diseño         = Figma (UI/UX) y Draw.io (Diagramas).
-3.  Base de Datos  = MySQL Workbench y MySQL 8.
-4.  esarrollo      = IntelliJ IDEA (Java Spring Boot 3).
-5.  Servidor       =XAMPP (Tomcat) o Despliegue en la Nube (Cloud)
-
-
-
-## Tecnologias utilizadas 
-- Java 17
-- Spring Boot 3
-- MySQL 8
-- HTML5, CSS3, JavaScript
-- IntelliJ IDEA
-- XAMPP (Tomcat)
-- MySQL Workbench
-- Figma (diseño UI/UX)
-- Draw.io (diagramas)
----
-
-
-## Estructura del proyecto
-
-```
-Sistema-MundoLlantas/
-├── backend/          → Spring Boot (Java)
-│   ├── src/
-│   ├── pom.xml
-│   └── ...
-├── frontend/         → HTML, CSS, JS|
-│   ├── css/
-│   ├── js/
-│   └── index.html
-```
 ----
 
 ## Base de datos
