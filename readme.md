@@ -289,4 +289,6 @@ https://www.figma.com/design/HbDLsjrG3iVDceRRa4rj2f/Sin-t%C3%ADtulo?node-id=0-1&
 
 
 ## IMAGEN DE NEGOCIO
+<img width="424" height="513" alt="image" src="https://github.com/user-attachments/assets/3472230a-d25f-45d3-804c-13ae62077f3d" />
+
 
