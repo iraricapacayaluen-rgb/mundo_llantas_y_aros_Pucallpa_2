@@ -288,7 +288,8 @@ INSERT INTO venta_facturacion (usuario_id, producto_id, cantidad, precio_venta, 
 https://www.figma.com/design/HbDLsjrG3iVDceRRa4rj2f/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=CLjCuSuJsNpFjcd8-0
 
 
-## IMAGEN DE NEGOCIO
-<img width="424" height="513" alt="image" src="https://github.com/user-attachments/assets/3472230a-d25f-45d3-804c-13ae62077f3d" />
+## Imagen del Negocio
+
+![Mundo Llantas y Aros](img/negocio.png)
 
 
