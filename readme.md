@@ -286,3 +286,6 @@ INSERT INTO venta_facturacion (usuario_id, producto_id, cantidad, precio_venta, 
 ## FIGMA
 
 https://www.figma.com/design/HbDLsjrG3iVDceRRa4rj2f/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=CLjCuSuJsNpFjcd8-0
+
+
+## IMAGEN DE NEGOCIO
